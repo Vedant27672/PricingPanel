@@ -1,6 +1,6 @@
 # PricingPanel
 
-Deployed: https://pricing-panel-webb.netlify.app
+Live Demo: https://pricing-panel-webb.netlify.app
 
 ## Overview
 
